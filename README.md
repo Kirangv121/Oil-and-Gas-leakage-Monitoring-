@@ -1,7 +1,7 @@
 ﻿# Oil-and-Gas-leakage-Monitoring
 ## Deployed link : https://integratedinnovators.vercel.app/
-
-
+   ### Demo admin credentials: admin@leakagemonitoring.com    password : admin123
+   ### Admins can securely create and manage Operator accounts by assigning credentials and specific roles. Operators then log in using the provided credentials and access real-time monitoring dashboards.
 
 
 AI-Powered Remote Monitoring & Predictive Maintenance Dashboard
