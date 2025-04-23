@@ -1,4 +1,9 @@
-﻿# Oil-and-Gas-leakage-Monitoring-
+﻿# Oil-and-Gas-leakage-Monitoring
+## Deployed link : https://integratedinnovators.vercel.app/
+
+
+
+
 AI-Powered Remote Monitoring & Predictive Maintenance Dashboard
 Built with Next.js, this intelligent dashboard system is designed for real-time leak detection, predictive analytics, and sector-specific monitoring, with a strong focus on Oil & Gas infrastructure.
 
