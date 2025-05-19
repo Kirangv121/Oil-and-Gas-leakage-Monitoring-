@@ -11,7 +11,6 @@ Built with Next.js, this intelligent dashboard system is designed for real-time 
 
 🚀 Overview
 This is a cutting-edge Remote Monitoring and Predictive Maintenance platform tailored for high-risk industries. Leveraging Next.js, WebSocket/MQTT, and AI/ML models, the dashboard enables proactive decision-making by providing real-time sensor data, alerts, and smart diagnostics.
-
 🛠️ Key Features ( Still we are working on it )
 ✅ Built in Next.js for blazing-fast performance & scalability.
 
