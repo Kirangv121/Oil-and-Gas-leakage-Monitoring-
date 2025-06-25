@@ -19,7 +19,7 @@
    #### Admins can securely create and manage Operator accounts by assigning credentials and specific roles. Operators then log in using the provided credentials and access real-time monitoring dashboards.
 
 
-# AI-Powered Remote Monitoring & Predictive Maintenance Dashboard
+# AI-Powered Remote Monitoring & Predictive Maintenance Dashboard for Oil and Gas leakage
 Built with Next.js, this intelligent dashboard system is designed for real-time leak detection, predictive analytics, and sector-specific monitoring, with a strong focus on Oil & Gas infrastructure.
 
 🚀 Overview
