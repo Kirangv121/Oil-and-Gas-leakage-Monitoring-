@@ -1,6 +1,7 @@
-![Screenshot 2025-06-25 212231](https://github.com/user-attachments/assets/fe1eb90a-2a29-47ab-b25f-6df6d5b5823b)
-![Screenshot 2025-06-25 212333](https://github.com/user-attachments/assets/7c104e7a-3c07-4ab1-a111-5c21d0f96d55)
-![Screenshot 2025-06-25 212247](https://github.com/user-attachments/assets/9403274f-ceee-4087-a43d-19b91aa221ec)
+![Home_page](https://github.com/user-attachments/assets/9403274f-ceee-4087-a43d-19b91aa221ec)
+![Sensor_monitoring](https://github.com/user-attachments/assets/7c104e7a-3c07-4ab1-a111-5c21d0f96d55)
+![predictive_maintenance](https://github.com/user-attachments/assets/fe1eb90a-2a29-47ab-b25f-6df6d5b5823b)
+
 ﻿# Oil-and-Gas-leakage-Monitoring
  
 ### Deployed link : https://oilandgas121.vercel.app/
