@@ -1,6 +1,6 @@
 ﻿# Oil-and-Gas-leakage-Monitoring
  
-### Deployed link : https://integratedinnovators.vercel.app/
+### Deployed link : https://oilandgas121.vercel.app/
 #### Demo admin credentials: admin@leakagemonitoring.com    password : admin123
 
 ### Demonstration Video: https://drive.google.com/drive/folders/1Wi20XmqXGl3Z1KRaALbjQE94cgLhTaEq?usp=sharing
